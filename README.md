@@ -27,9 +27,10 @@
 code as a parameter and then translate it to plain English.
 
 ## 🛠 Built With <a name="built-with"></a>
+ ** Ruby **
 
 ### Tech Stack <a name="tech-stack"></a>
-
+** Backend **
 <details>
 <summary>Ruby</summary>
   <ul>
@@ -39,8 +40,8 @@ code as a parameter and then translate it to plain English.
 
 ### Key Features <a name="key-features"></a>
 
-- **Add a method to decode a Morse code character**
-- **Create a method to decode the entire message in Morse code**
+- By separating the class and module into separate files, the code follows a modular structure, enhancing readability, maintainability, and reusability.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -70,7 +71,7 @@ Clone this repository to your desired folder:
 Using the commands below:
 
 ```sh
-  git clone https://github.com/abiola-arobieke/morse-code.git
+  git clone https://github.com/Javed-Shahbaz/Enumerables/Enumerables.git
 ```
 
 Open the project on your code editor
