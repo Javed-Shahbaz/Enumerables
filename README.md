@@ -64,7 +64,7 @@ to install git on your computer. Follow the instruction on the page to do so
 Open your preferred folder in the terminal
 
 ```sh
-  cd morse-code
+  cd Enumerables
 ```
 
 Clone this repository to your desired folder:
@@ -109,7 +109,7 @@ Open the project on your code editor
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/abiola-arobieke/morse-code.git/issues).
+Feel free to check the [issues page](https://github.com/Javed-Shahbaz/Enumerables/Enumerables.git/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
